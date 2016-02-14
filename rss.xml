@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Honor Yourself]]></title>
         <description><![CDATA[Honor Yourself]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blessyourbody/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 12:07:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 12:16:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blessyourbody/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to Bless Your Body. This is the new, smaller website. If you'd like to contact us, follow us on FB: https://www.facebook.com/blessyourbody/</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Bless Your Body</p></article>]]></description>
+            <link>https://thegrid.ai/blessyourbody/welcome/index.html</link>
             <guid isPermaLink="false">0c642513-6db4-4ce8-a9a4-82675616cba9</guid>
-            <pubDate>Sun, 14 Feb 2016 12:07:18 GMT</pubDate>
+            <pubDate>Sun, 14 Feb 2016 12:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
