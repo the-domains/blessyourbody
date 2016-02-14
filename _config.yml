@@ -1,7 +1,7 @@
-name: BlessYourBody
+name: Bless Your Body
 favicon: null
-layout_spectrum: 0.20120643824338913
-typography_spectrum: 0.8277923697605729
+layout_spectrum: 0.41362
+typography_spectrum: 0.30147
 title: Honor Yourself
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.2500988426618278
-  lightness: 0.15374988201074302
-  saturation: 0.49887764104641974
-  rhythmicContrast: 0.9099026820622385
+    - '#ffffff'
+    - '#81cfe9'
+    - '#626f89'
+    - '#a0adb7'
+    - '#3f4b64'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
