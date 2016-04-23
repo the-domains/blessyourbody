@@ -1,4 +1,4 @@
-name: Bless Your Body
+name: BlessYourBody
 favicon: null
 layout_spectrum: 0.41362
 typography_spectrum: 0.30147
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-12327982-1
   facebook: null
   twitter: null
 opengraph:
